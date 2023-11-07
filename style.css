@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background-color: pink;
+    color: #fff;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 2em;
+    margin: 0;
+}
+
+header p {
+    font-size: 1.5em;
+    margin: 0;
+}
+
+section {
+    background-color: pink;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+#about, #projects, #contact {
+    margin-top: 20px;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+.project {
+    margin: 20px 0;
+}
+
+.project img {
+    max-width: 100%;
+}
+
+.project h3 {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+h4{
+    font-size: :1.2em;
+}
+
+img { 
+    border: 18px solid #ddd;
+    border-radius: 20px;
+    padding: 20px;
+    width: 500px;
+}
+
+<img src="images/instagrampage1.PNG" alt="Instagram" alt="Instagram"
+
+h5{
+    font-size: 20px;
+p.small{
+    line-height: 0.8;
+}
+p.big {
+    line-height: 1.8;
+}
+}
+
+h6 {
+    font-size: 20px;
+}
+
+h7 {
+    font-size: 70px;
+    text-align: center;
+    background-color:rgb(128, 0, 64) ;
+    color: white;
+    letter-spacing: 8px;
+    text-shadow: 2px 2pxpx black;
+}
